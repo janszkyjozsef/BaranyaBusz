@@ -1,0 +1,5 @@
+{
+  "name": "Baranya Transit Map",
+  "description": "Interactive visualization of public transport accessibility in Baranya county, calculating travel times and connections to Pécs.",
+  "requestFramePermissions": []
+}
